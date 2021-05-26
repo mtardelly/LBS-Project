@@ -1,0 +1,49 @@
+.Login__ {
+  background: linear-gradient(180deg, #cbcbcb 0%, #9c9b98 45.83%, #6c6962 100%);
+}
+.Login__campos {
+  background: linear-gradient(90deg, #a0a29f 0%, #737575 100%);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5), 0px 4px 25px rgba(0, 0, 0, 0.12);
+  border-radius: 34px;
+  
+
+    height: 50%;
+    
+
+  
+}
+.Login__direito {
+  background: linear-gradient(180deg, #cbcbcb 0%, #9c9b98 45.83%, #6c6962 100%);
+  opacity: 0.7;
+
+  border-radius: 3px;
+}
+/*.Login__padding{
+  
+}*/
+.Login__div_lateral {
+  background: linear-gradient(
+    180deg,
+    rgba(190, 161, 5, 0.75) 0%,
+    rgba(200, 157, 61, 0.75) 45.83%,
+    rgba(249, 191, 78, 0.75) 100%
+  );
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  border-radius: 3px;
+
+  padding-left: 4%;
+  -webkit-box-orient:vertical;
+  -webkit-box-direction:normal;
+
+
+}
+
+.azul {
+  background-color: blue;
+}
+.teste2{
+  width: 100%;
+    max-width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+}
